@@ -1,5 +1,8 @@
 <resources>
     <string name="app_name">SimpleTimer</string>
     <string name="startLabel">Start</string>
+    <string name="resetLabel">ResetLabel</string>
+    <string name="timeLabel">Time: </string>
+    <string name="timeElapsedLabel">Time Elapsed:</string>
 
 </resources>
